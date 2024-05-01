@@ -2,4 +2,4 @@ This repository contains code that scrapes the data from a wikipedia page of the
 
 There is also the CSV data that has been created from the scraped data. 
 
-Collaborator: Lucas
+Collaborator: Lucas lfierroruiz@my.waketech.edu Accepted
